@@ -1,0 +1,500 @@
+How Laissez-Faire Made Sweden Rich
+Simple Ethereum library for Clojure(Script)
+The people who make their own watches
+The Eccentric Lives of Steinhaus, Banach and Ulam
+Managing database schema changes without downtime
+Hollywood's Behind-The-Scenes Support for SESTA Is All About Filtering
+How Bangladesh vanquished diarrhoea
+Chernoff face
+How and why to search for young Einsteins
+Cluster and app management services in Docker Cloud are shutting down on May 21
+Powerful flare from star Proxima Centauri detected with ALMA
+Omaha man ‘liked’ a tweet, then lost his job
+Rent out GPUs to AI researchers and make ~2x more than mining cryptocurrencies
+Our suite of Ethereum security tools
+The long read: Gangster’s paradise: how organised crime took over Russia
+Listening for illegal logging chainsaws using TensorFlow
+Pivotal Software S-1
+Publish on Your Own Site, Syndicate Elsewhere
+With SESTA/FOSTA, lawmakers failed to separate good intentions from bad law
+Craigslist takes personals sections offline in response to FOSTA
+Congrats Dropbox
+A Tour Through Merkle Town, Cloudflare's Certificate Transparency Dashboard
+Game Workers Unite
+The Rise of Dismal Science Fiction
+Google's 'secret' smart city on Toronto's waterfront sparks row
+C for All
+Facebook Use of Sensitive Data for Advertising in Europe [pdf]
+Journalist faces criminal charges over coverage of protest
+The making of Dark Castle
+The health care toll today’s work culture exacts on employees
+The Best Alternative for Every Facebook Feature
+Demand for American Sperm Is Skyrocketing in Brazil
+Linux v4.15: Performance Goodies
+Uber’s Self-Driving Cars Were Struggling Before Arizona Crash
+Blender’s Prehistory – Traces on Commodore Amiga (1987-1991)
+A letter from Drew and Arash
+The New Law That Killed Craigslist’s Personals Could End the Web as We’ve Known
+Ask HN: Which YC companies failed badly?
+Figma Platform
+Require multiple reviewers for pull requests
+Ask HN: If you were to ditch Gmail, what would be your alternative to email?
+For the U.S. And China, a Technology Cold War That’s Freezing Over
+Krita 4.0 – A painting app for cartoonists, illustrators, and concept artists
+Lessons for Building AI-Driven Products
+Review of Steven Pinker’s Enlightenment Now
+When an algorithm cuts your healthcare
+Understanding Deep Learning Through Neuron Deletion
+Release 2018-03-23 – NeoMutt
+When Scientists Perform Experiments on Themselves
+Circular Shock Acoustic Waves in Ionosphere Triggered by Launch of Formosat‐5
+Sociologists Examine Hackathons and See Exploitation
+Elon Musk Deletes Own, SpaceX and Tesla Facebook Pages After #deletefacebook
+Cambridge Analytica and a Moral Reckoning in Silicon Valley
+Pens and Needles: Reviving Book-Embroidery in Victorian England
+Judge grants search warrant for Cambridge Analytica's offices
+TCP Tracepoints have arrived in Linux
+Evolution Is the New Deep Learning
+Blocklist Facebook domains
+Thundra: AWS Lambda Observability for Java, Go and Node.js
+How Facebook handles account deletions
+Federal judges have struck down an anti-robocall rule
+Buffett recommends investing in index funds – but many of his employees can’t
+Bumble Swipes Left on Match Group/Tinder Allegations
+BMW says electric car mass production not viable until 2020
+Human Dx is looking for our next software engineer
+Section 230: A Key Legal Shield for Facebook, Google Is About to Change
+100 days with Rust: a series of brick walls
+Lucky iron fish
+Largest Animal Study on Cell Tower Radiation Confirms Cancer Link
+Number systems of the world, sorted by complexity of counting (2006)
+Toys 'R' Us Founder Charles Lazarus Dies at 94
+Ask HN: Why are law documents (GDPR) so difficult to understand?
+Luck and startups: Our journey
+D3.js 5.0 is out
+Bird populations in French countryside have fallen by a third in fifteen years
+How to Make an Inca Mummy (2016)
+A Visiting Star Jostled Our Solar System 70,000 Years Ago
+Hennessy and Patterson win Turing Award
+Hedge-fund managers that do the most research will post the best returns
+Powerful New Algorithm Is a Big Step Towards Whole-Brain Simulation
+Hollywood's Behind-The-Scenes Support for SESTA Is All About Filtering the Net
+Tempe Police Release Video of Uber Accident
+Alan Kay: Why functional programming is seen as OOP's opposite, not in addition
+Facebook, Google spending big bucks to fight California data privacy measure
+NLP with spaCy
+My daughter's disabled. Please don't look away from her
+Protecting Security Researchers
+Power 9 May Dent X86 Servers: Alibaba, Google, Tencent Test IBM Systems
+Roskomnadzor recommended operators to block some of Amazon's IP-addresses
+Show HN: Transfer files to mobile device by scanning a QR code from the terminal
+Ask HN: How do you find freelance work?
+YouTube and Reddit roll out new restrictions including channel and sub bans
+Dropbox jumps more than 40% in trading debut
+South Korean government to shut off computers to stop its employees working late
+House Passes Controversial CLOUD Act Sneaked into Omnibus
+The Myth of Authenticity Is Killing Tex-Mex
+Images of Bike-Share Oversupply in China
+Ask HN: How do you prefer to spend your weekends?
+Using old laptop batteries to build homemade powerwalls
+Ask HN: What are the foundational books on distributed storage systems?
+Bolton paid Cambridge Analytica to make Facebook users more favorable to war
+Agility Robotics Raises $8M for Commercial Bipedal Robots
+Why I didn’t fix your bug
+Steinhaus Longimeter
+London Metropolitan Police admits role in blacklisting construction workers
+Medieval peasants got more vacation time than modern workers (2013)
+Show HN: Live Face Detector Using Chrome's Native FaceDetector API
+What is Mastodon? [video]
+US Military Aims to Start Using Laser Weapon That Produces Voices by 2021
+GDPR in Plain English
+Cutting ‘Old Heads’ at IBM
+Downloaded my Facebook data and it has the call history with my partner’s mother
+Open Speech Recording
+You probably don't want to run Firefox Nightly any more
+The great Pacific garbage patch is largely abandoned fishing gear
+Love JavaScript, but hate CSS?
+Logging in large mathematical models
+Show HN: Infer – Use TensorFlow Models in Go to Evaluate Images
+Responsibility Deflected, the CLOUD Act Passes
+Expanding MongoDB Atlas Availability on GCP
+Tracking ransomware end-to-end
+Understanding CPU port contention
+Genetic analysis of tiny mummified skeleton from the Atacama Desert
+China regulator bans TV parodies amid content crackdown
+Sci-Bay: Google Scholar plus Sci-Hub
+The Declining Value of a CS Master's Degree (2013)
+Telegram: 200M Monthly Active Users
+A Q&A with Mark Zuckerberg About Data Privacy
+Shkreli Got Prison Time, Holmes Didn’t. Is That Fair?
+Users Abandon Facebook After Cambridge Analytica Findings
+Ask HN: How does a great resume look like? What are the best tools to make one?
+Isambard Kingdom Brunel: The engineering giant with 'short man syndrome'
+Bill Nye Confronts Justin Trudeau Over Kinder Morgan Pipeline
+Reduced-﻿calorie diet shows signs of slowing ageing in people
+Open Sourcing Oclif, the CLI Framework That Powers Our CLIs
+Hacking Engineers and Engineering Media
+The new technology that aspires to #DeleteFacebook for good
+Google Is Working on Its Own Blockchain-Related Technology
+Firefox Product Roadmap
+Rise in cancers 'caused by weight'
+Are self-driving cars 33 times more deadly than regular cars?
+LA Considers Ambitious Proposal to Provide Housing for Every Homeless Person
+GitLab 10.6 released with CI/CD for GitHub
+YouTube Will ‘Frustrate’ Some Users with Ads So They Pay for Music
+‘Testilying’ by Police: A Stubborn Problem
+The Legitimisation of Have I Been Pwned
+Sources: Google is buying Lytro for about $40M
+Guccifer 2.0 Slipped Up and Revealed He Was a Russian Intelligence Officer
+It’s time to replace passwords with keys
+Recommended compiler and linker flags for GCC
+The Red Wedding Problem: Write Spikes at the Edge and a Mitigation Strategy [pdf]
+Introducing the LineageOS SDK
+Belgium Tells Facebook to Stop Storing Personal Data from Non-Users (2015)
+InfluxData Working on Go Implementation of Apache Arrow – InfluxData
+Using Technical Debt in Your Favor
+Salesforce is buying MuleSoft at enterprise value of $6.5B
+Exploring Word2Vec
+User-defined Order in SQL
+Intel’s Chipped Chips
+Defending Against Voice Impersonation Attacks on Smartphones (2017) [pdf]
+SCL – A Very British Coup
+Poetry – Python dependency management and packaging made easy
+From Rails to Clojure, Then to Java, Then Back to Rails
+Efficient Recurrent Neural Networks using Structured Matrices in FPGAs
+Show HN: Asynchronous HTTP/2 client for Python 2.7
+Corporations and the Culture Wars
+Wyoming Passes Forward-Thinking Computer Science Education Bill
+Silicon Valley's Regulatory Exceptionalism Comes to an End
+How to look out for yourself inside a particular company
+Show HN: Define – A command-line dictionary app written in Go
+California privacy advocates ask why Facebook opposes a proposed ballot measure
+Humans are sleepwalking into a mass extinction not seen since the dinosaurs
+… but we are all Facebook users
+California should emulate Tokyo, where housing stayed ahead of population growth
+Chinese Companies Are Buying Up Cash-Strapped U.S. Colleges
+Direct X Raytracing: Further Unification
+Cambridge Analytica and the Secret Agenda of a Facebook Quiz (2016)
+We need a new platform before we can #deleteFacebook
+Show HN: DomainWatch – Get notified when a domain becomes available
+Seattle's New Normal: Homelessness Is Now Middle Class
+The Glory That Was Yahoo
+WhatsApp co-founder tells everyone to delete Facebook
+Atlanta city government systems down due to ransomware attack
+Alan Kay's: Why is FP seen as the opposite of OOP rather than an addition?
+Big Other: Surveillance Capitalism and Prospects of an Information Civilization
+Next-Gen Display: MicroLEDs
+Data on 1.2M Facebook users from 2005 (2011) [use archive.org url in thread]
+The tech behind catching the Austin serial bomber
+Cow Game Extracted Facebook Data
+Video suggests huge problems with Uber’s driverless car program
+“Joy of Cooking” versus the Food Scientist
+America’s Misguided War on Childhood Lead Exposures
+The Cross-Examined Life: Socrates Debates the Laws
+Zuckerberg on Cambridge Analytica situation
+Where to Score: Classified Ads from Haight-Ashbury
+Researchers Learned to Use Facebook ‘Likes’ to Sway Your Thinking
+How YouTube Uses Mechanical Turk Tasks to Help Train Its AI
+Death of the sampling theorem?
+Spotify reveals 2M free users are dodging ads
+Airborn: Create and edit f​iles online​, securely
+Google News Initiative
+Running Java in a Container
+The double-arm barn door tracker
+Fractions in the Farey Sequences and the Stern-Brocot Tree
+Dejavu – Web UI for Elasticsearch
+Launch HN: Promise (YC W18) – Cost-effective, more humane alternative to jail
+The woman who saved Stephen Hawking's voice and gave the tech to those in need
+MIT's Soft Robotic Fish Explores Reefs in Fiji
+Scientists suspect a link between the digestive system and problems with sleep
+Open Source Maintainers Owe You Nothing
+Bill Gates and Richard are betting lab-grown meat may be the food of the future
+Tell HN: I just wanted to say: thank you, Hacker News
+How Genetics Is Changing Our Understanding of ‘Race’
+JDK 10: General Availability
+Peer review: the end of an error?
+EU's Mandatory Copyright Content Filter Is the Zombie That Just Never Dies
+How Sugar Daddies and Vaginal Microbes Created the World’s Largest HIV Epidemic
+Lightning on Stellar: Technical Spec and Roadmap
+Show HN: Sheet2Site – Create Websites Out of Google Sheets
+Police Say Video Shows Woman Stepped Suddenly in Front of Self-Driving Uber
+A Man Who’s Spent $70k Playing a Mobile Game
+TravisBuddy: Adds comments to failed pull requests, tells author what went wrong
+The Tale of Theranos and the Mysterious Fire Alarm
+Facebook, Google, your reign may soon be over
+Advertisers can now pay to sneak by your ad blocker (2015)
+Guide to Slack import and export tools
+Outline – Self Hosted VPN by Google's Jigsaw
+Elwha: Roaring back to life (2016)
+Cloud Identity
+Neural Network Quine
+Alan Kay on Why is FP seen as the opposite of OOP rather than an addition to it
+Show HN: Highlight/style text as you’re typing (Vue component)
+Sqlite3 – Bug or hidden feature?
+Norway plans to buy electric planes, mimicking green car success
+Man guilty of hate crime for filming pug's 'Nazi salutes'
+In field tests, device harvests water from desert air
+Facebook Sued by Investors Over Voter-Profile Harvesting
+Hacker Guccifer 2.0 revealed as Russian agent when forgets VPN
+Blade raises $38M to build flying taxi infrastructure
+Restricted by YouTube, Gun Enthusiasts Are Taking Their Videos to Pornhub
+Poland's economic experiment based on Thomas Piketty
+We, Programmers, are Gardeners
+Ask HN: Is there something like Join.me for Linux?
+Netflix Sans, a new custom typeface
+Startups not status: Japan's top grads rethink success
+Robert Langlands, Mathematical Visionary, Wins the Abel Prize
+Finland's homeless crisis nearly solved. How? By giving homes to all who need
+How Hard Is It to Get a Cartoon into the New Yorker? (2011)
+Chaos and Variance in Galaxy Formation
+Gumroad on Twitter: “We've deleted our Facebook page.”
+Survey: Americans Spent $1.4B on Credit Freeze Fees in Wake of Equifax Breach
+American cockroaches thrive in cities thanks to their long genomes
+Show HN: Playlist to write code faster, up to 130 hacks per minute guaranteed
+YouTube’s fake views economy
+Reproducible machine learning with Jupyter and Quilt
+Google Chrome’s next update will finally block autoplay videos that have sound
+How to control your Facebook privacy settings or delete your account permanently
+Google Cloud Armor
+Experimenting with Light Fields
+An easy fix for a broken advertising system – Doc Searls
+Startups that launched today at Y Combinator’s W18 Demo Day
+Scrum for One: How to Apply the Scrum Framework to Personal Projects
+How a Tick Digs Its Hooks In
+Facebook is America’s scapegoat du jour
+At the Mars conference, Jeff Bezos Hosted Roboticists, Astronauts and more
+Tell HN: Algolia search stemming issue
+The Music of the Beatles (1968)
+Deep dive on the most severe Kubernetes vulnerabilities – CVE-2017-1002101/2
+Complex Animals Led to More Oxygen, Says Maverick Theory
+Slack’s new policy lets bosses read employees’ DMs without consent
+Robots are not very good at picking strawberries yet
+Blazor 0.1.0 released: web apps in the browser with .NET and WebAssembly
+Avi Wigderson’s “Permanent” Impact on Me (2016)
+Both Facebook and Cambridge Analytica Threatened to Sue Journalists
+Facebook Is Not the Internet's Only Privacy Villain
+Japan's older hikikomori live in isolation, shunning society for years
+NGraph: A New Open Source Compiler for Deep Learning Systems
+Nobody Knows Anything About China
+Facebook is storing an updated copy of your phone Contacts, nicknames included
+IBM Cloud Developer Console for Apple
+Zuckerberg Has No Way Out of Facebook's Quagmire
+Why I Don't Sign Non-Competes
+Our Discovery of Cramming (2017)
+Facebook tracks all calls and messages on Android
+Why is no one talking about the CLOUD Act that came out last night?
+The NSA Worked to “Track Down” Bitcoin Users, Snowden Documents Reveal
+'Fifth Generation' Became Japan's Lost Generation (1992)
+Taste buds dull as people gain weight
+Benchmarking OS primitives
+Trump Hits China With Stiff Trade Measures
+Deep Learning for Forecasting Stock Returns in the Cross-Section
+The fantasy robots of Boston Dynamics
+Mozilla Presses Pause on Facebook Advertising
+Online flag waver
+Productivity Growth in the US Continues to Decline
+Understanding Spectre and Meltdown – Part 2
+How I Replaced Social Media Addiction with Productivity (2017)
+Cambridge Analytica breach results in lawsuits filed by angry Facebook users
+The stability implications of the US nukes' burst-height compensating super-fuze
+SpaceX indicates it will manufacture the BFR rocket in Los Angeles
+Doctors say stem cell transplant could be a "game changer" for patients with MS
+Go ahead and #DeleteFacebook. But here’s the change we really need
+Hundreds of Startups Tell Investors: Diversify, or Keep Your Money
+Velodyne Lidar Inc. baffled by Uber crash
+Pointing machine
+Facebook was warned in 2011 of data loopholes exploited by Cambridge Analytica
+Ask HN: What are some books where the reader learns by building projects?
+The Portlandia Effect: How Did the Show Change the City It Satirized?
+One Order of Operations for Starting a Startup
+GitHub adds contextual hovercards
+Text Buffer Reimplementation
+Hawking to Be Buried in Westminster Abbey
+Deepl Pro
+Building Container Images Securely on Kubernetes
+DeleteFacebook: Perspective from Mastodon
+Plastic within the Great Pacific Garbage Patch is ‘increasing exponentially,’
+Bike-sharing boom in Japan a prelude to online payment war?
+Ask HN: What abandoned OSS project would you like to see revived?
+'Great Pacific garbage patch' sprawling with far more debris than thought
+Facebook Forces NYT to Quietly Delete Unflattering Reference to Sheryl Sandberg
+Best Buy won’t sell Huawei phones, laptops, or smartwatches anymore
+Show HN: A Chrome Extension that blocks Facebook completely
+Ask HN: How do I explain a resume gap after taking a sabbatical?
+Telegram told to give encryption keys to Russian authorities
+LightSail Energy Enters “Hibernation”, Quest for Energy Storage Runs Out of Cash
+EFF and 23 Groups Tell Congress to Oppose the CLOUD Act
+Ask HN: How to self-learn ML?
+Why I deleted Facebook
+Trump’s new security advisor John Bolton also relied on Cambridge Analytica
+Google Code Jam void if you are resident of Quebec/Crimea/North Korea/Syria
+Power 9 May Dent X86 Servers – EE Times
+Show HN: Create effortless page transitions with a new primitive in react-spring
+Privacy Risks with Facebook’s PII-Based Targeting [pdf]
+Freezing the 'hunger nerve' could help with weight loss
+Tim Berners-Lee: “This is a serious moment for the web’s future.”
+Facebook faces a reputational meltdown – What Zuckerberg should do
+Leaked: Cambridge Analytica's Blueprint for Trump Victory
+The FBI Says It Can't Find Hackers to Hire Because They All Smoke Pot (2014)
+Telegram Loses Bid to Block Russia from Encryption Keys
+Welcome to Zucktown
+IBM working on ‘world’s smallest computer’ to attach to just about everything
+Facebook 'tramples on European law', says privacy body (2015)
+Nicolas Sarkozy, Ex-President of France, Is Held for Questioning on Libyan Cash
+Facebook cannot act in your best interest
+The history of documented Unix facilities
+Walmart Launches Small Army of Autonomous Scanning Robots
+Facebook can simultaneously measure everything about us
+Ten Machine Learning Algorithms You Should Know to Become a Data Scientist
+MIT's new robot fish is eerily realistic
+It certainly looks bad for Uber
+Cloudflare Bets on ARM Servers as It Expands Its Data Center Network
+Figma launches Platform
+Dravidian language family is 4500 years old
+New highly unpopular Reddit policy bans popular beer, cigar, and gun communities
+Declarative Programming with Python
+Best SSDs: Q2 2018
+Facebook lost more than Tesla's market cap
+Elon Musk has removed Tesla and SpaceX’s Facebook pages after Twitter challenge
+Eve: Programming designed for humans
+New lithium-air battery survives hundreds of cycles
+Ask HN: What are the best way to learn advanced SQL?
+Ask HN: How to adjust returning to the office after remote working a few years?
+Show HN: Storyrake – A tool to create your own Reddit-powered newsletter
+Zuckerberg has sold more FB stock in the last 90 days than any insider
+Ask HN: A crash course in networking
+The 64 startups unveiled at Y Combinator W18 Demo Day 2
+Create a better social product to replace Facebook challenge
+Data firm boss suspended amid Facebook row
+Human Rights Law in the Light of Algorithmic Authority
+Ask HN: Who here feels their work is relevant and what do you do?
+Walmart Launches Small Army of Autonomous Scanning Robots
+The idea of creating a new universe in the lab is no joke
+Dropbox will price IPO at $21 per share
+Facebook employees are angry that Zuckerberg ghosted in middle of this scandal
+JDK 10 is out
+You probably don't want to run Firefox Nightly any more
+Show HN: Nugget 3.0 – Browse 3450+ SaaS product ideas
+YouTube just became the Top Grossing iPhone app
+SpaceX launch last year punched huge, temporary hole in the ionosphere
+Amazon Briefly Overtakes Alphabet in Market Value
+Grafana Heatmaps with the IRONdb Data Source
+Facebook is planning to build a real community with parks, stores and apartments
+IBM releases new blockchain developer solutions
+Beloved Guitar Maker Gibson Faces Crushing $560M Debt
+Trump slaps China with about $60B in tariffs
+Police chief said Uber victim “came from the shadows” – don’t believe it
+These are the 64 startups unveiled at Y Combinator W18 Demo Day 2
+Show HN: Interactive diagramming application for Rails
+The exciting list of Cron oddities
+Show HN: Turn a low res image to high res with ML
+Why German companies fail at digital innovation
+DC/OS 1.11: Edge and Multi-Cloud Operations
+Elon Musk Deletes Facebook Accounts for Tesla and SpaceX
+John Carmack on Invention and Innovation
+Utah governor signs law legalizing 'free-range parenting'
+Cambridge Analytica creator has State Department contract
+Michał Zalewski,  Director Information Security Engineering, leaves Google
+US officials: Kaspersky “Slingshot” report burned anti-terror operation
+How Sift Science Trains Thousands of Models Using Apache Airflow
+Facebook CEO Zuckerberg conspicuously absent as data scandal grows
+Thawing permafrost produces more methane than expected
+Expedia's Orbitz says 880,000 payment cards hit in breach
+How Congress Censored the Internet
+Show HN: 100 Million Books for Android – Discover All the Books Ever Published
+Ask HN: What are the best resources to improve public speaking skill?
+Texas Woman with Cerebral Palsy: Uber Denied Her Service Over Two Dozen Times
+OCaml-multicore now at 4.04.2
+OpenBSD Foundation 2018 Fundraising Campaign
+Ask HN: A discussion on Ethics
+This Multibillion-Dollar Corporation Is Controlled by a Penniless Yoga Superstar
+Four interacting decisions break ssh access
+Ask HN: How much could I estimate my project?
+Facebook’s battle to kill the first transparency law for online political ads
+With 'Siren,' Unreal Engine blurs the line between CGI and reality
+Flutter: to make a virtue of necessity
+PostgreSQL Begins Landing LLVM JIT Support for Faster Performance
+Salesforce in advanced talks to buy MuleSoft
+Cloudflare CEO: Why we’re switching to ARM-based servers
+Show HN: Export all Digg Reader data
+China is now home to some of the world’s most powerful supercomputers
+Disarming the Weapons of Mass Distraction
+In rural Japan, immigrants spark a rebirth
+Project Malmo [Minecraft AI Platform by Microsoft]
+This Is How Much Your Personal Data Is Worth on the Dark Web
+Ask HN: What are good computer science papers for fierce debate?
+Ask HN: Alternative to Facebook events?
+Numberphile: Dealing Cards with Cryptography (with Ron Rivest)
+Ask HN: What headless CMS do you recommend?
+Europe's most densely populated square kilometres
+Hours After FOSTA Passes, Reddit Bans 'Escorts' and 'SugarDaddy' Communities
+China’s Face-Scanning Craze
+When Great Employees Have Bad Ideas
+Recursion: It Is What It Is (And Nothing Else) (2016)
+Mandatory upload filters in the EU?
+8 tips to avoid retrospectives that feel like a constant failure
+What the F*** Was Facebook Thinking? – James Allworth – Medium
+No Longer a Secret: How Israel Destroyed Syria's Nuclear Reactor
+The US Military Is Making Lasers Create Voices Out of Thin Air
+Ask HN: What are the best man pages to read?
+Empty half the Earth of its humans. It's the only way to save the planet
+Cambridge Analytica’s Mercer’s and Alexander Nix at It Again
+The Affirmative Action Blues
+Node.js v9.9.0
+S3 and VPC outages this morning on AWS
+Cambridge Analytica CEO – Online Marketing Rockstars Keynote
+Will Cutting Calories Make You Live Longer?
+Types of People Startups Should Hire, but Don’t
+WhatsApp cofounder Brian Acton tweets that it's time to delete Facebook
+The Bw-Tree: A B-tree for New Hardware Platforms [pdf]
+The problem with Facebook
+What's new and coming in C# 8
+How Facebook’s Naive Optimism Built a Toolbox for Totalitarianism (2014)
+Alex Stamos Leaving Facebook Is Bad News
+CEO of Cambridge Analytica claimed they used U.S. proxies to influence election
+Derek Sivers: Why I Deleted Facebook
+Water shortages could affect 5bn people by 2050, UN report warns
+Cryptokitties Raises $12M from USV, Andereessen Horowitz
+Why You Should Be Wary of Financial Robo-Advisors
+Google sure is good at plagiarizing my work - Dan Guido
+Volumes on Most Major Cryptocurrency Exchanges Are Fake or Inflated: Study
+Ask HN: Which cloud provider to use in 2018? Azure, AWS, GCE, something else?
+Java 10 release
+AMD Corporate: Initial AMD Technical Assessment – Community
+Data-Driven Development with Cloudflare Mobile SDK
+15-Year-Old Finds Flaw in Ledger Crypto Wallet
+Alexa’s laughing bouts highlight a fatal flaw in bot development
+China’s DJI Raising Money at $15B Valuation
+What Mark Zuckerberg didn’t say, and probably won’t
+Linux virtualization on Fuchsia
+​How to conduct an appraisal: 10 top tips for managers and employees
+Slack to make it easier for bosses to download your private chats
+Ask HN: Will rewriting Cassandra in Go solve GC issues?
+Nintendo Switch Is the Best-Selling Console Ever in the US
+'Uber should be shut down':friends of self-driving car crash victim seek justice
+How Much Does It Cost to Buy Luxury Condo in San Fran Not Live in It for 10 Yrs?
+Ask HN: What can I do if someone dupes me into working for free?
+It may be beside the point but Psychographic Targeting is useless Pseudoscience
+13 years after the Herb Sutter prediction: is the free lunch really over?
+Obama Campaign Manager Talks Big Data at the Milken Institute [2013 video]
+The decades-long quest to take the salt out of seawater
+A Software Engineer's Guide to Publishing Your First Book
+Tarpit: a computer system service that purposely delays incoming connections
+Visual Studio Code silently fixed RCE through DNS rebinding
+Initial AMD Technical Assessment of CTS Labs Research
+Turn Your Raspberry Pi into Portable Touchscreen Tablet with SunFounder's RasPad
+The Cambridge Analytica Con
+Google and Facebook can’t help publishers because they’re built to defeat them
+Apple Tries to Win Back Students and Teachers with Low-Cost iPad
+The “Rules” of Social Class
+Ask HN: What publications, journals, Think Tanks do you subscribe to?
+Understanding the Facebook and Cambridge Analytica Story
+Ask HN: How many hours do you sleep on average?
+Zuckerberg and Sandberg can't be trusted to handle data leak fallout
+Becoming a 10x Developer: How to Be a Better Teammate
+Facebook has lost $50B in market value over the past two days
+The case against Facebook
+YouTube bans videos that sell guns and accessories
+Salesforce buying MuleSoft for $6.5B
+How to set up swipeable stacked cards
+Bipolar Management: How I Survive Running a SaaS and Dev Shop
