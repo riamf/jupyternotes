@@ -18,7 +18,7 @@ class TFIDF:
         return result
 
     def TF(self, word, doc):
-        return doc.count(word)
+        return doc.split().count(word)
     
     def IDF(self, word):
         result = [sum(doc.count(word) for doc in self.documents)][0] + 1
