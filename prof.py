@@ -13,7 +13,7 @@ f.close()
 print('Lines loaded')
 stemmer = SnowballStemmer('english')
 start = time.time()
-stemmed = lines#[stemmer.stem(line) for line in lines]
+stemmed = [stemmer.stem(line) for line in lines]
 end = time.time()
 print('Stemmed in {}s'.format(start - end))
 

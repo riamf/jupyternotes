@@ -1,5 +1,6 @@
 import gensim
 from nltk.tokenize import word_tokenize
+from random import choice
 
 f = open('data.txt', 'r')
 raw_documents = f.readlines()
@@ -18,7 +19,7 @@ print(tf_idf)
 
 sims = gensim.similarities.Similarity('./',tf_idf[corpus],num_features=len(dictionary))
 
-query_doc = ['mobile', 'android', 'ios']
+query_doc = choice(gen_docs)
 print(query_doc)
 query_doc_bow = dictionary.doc2bow(query_doc)
 print(query_doc_bow)
@@ -28,10 +29,15 @@ print(query_doc_tf_idf)
 similarities = sims[query_doc_tf_idf]
 
 min_sim = 0.1
+print('')
 print('query: ', query_doc)
+print('')
+selected = []
 for i, doc in enumerate(raw_documents):
     val = similarities[i]
-    if val > min_sim: print('{} - {} - {}'.format(i,val,doc)) 
+    if val > min_sim:
+        selected.append((val, doc))
 
-
-
+selected.sort(key=lambda tup: tup[0], reverse=True)
+for tup in selected:
+    print('{} - {}\n'.format(tup[0],tup[1]))
