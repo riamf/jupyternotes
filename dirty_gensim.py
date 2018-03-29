@@ -18,13 +18,15 @@ f.close()
 
 from nltk.corpus import RegexpTokenizer
 from nltk.corpus import stopwords
+from string import punctuation
 
 texts = []
 for sentence in documents:
     sentence = sentence.lower()
     tokenizer = RegexpTokenizer(r'\w+')
     tokens = tokenizer.tokenize(sentence)
-    filtered_words = [w for w in tokens if not w in stopwords.words('english')]
+    custom_set = set(stopwords.words('english') + list(punctuation))
+    filtered_words = [w for w in tokens if w not in custom_set]
     texts.append(filtered_words)
 
 from collections import defaultdict
